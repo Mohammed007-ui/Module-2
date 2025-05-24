@@ -41,9 +41,9 @@ check_relation(num1, num2)
 
 ### OUTPUT
 
-```
+
 ![image](https://github.com/user-attachments/assets/6d25c13e-9efd-40e4-892a-d03f4d0b34cf)
-```
+
 
 ### RESULT
 
